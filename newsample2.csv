@@ -1,0 +1,21 @@
+Date,Time,DEST,LOCATION,CAUSE,COD,DEL,SEC,LR,HR,OFF,CNC,RUN
+2-Jul-21,542,Berryessa,Richmond,T.O. Procedure (Late Boarding),ot,8,,,,,,213
+4-Jul-21,722,Berryessa,Richmond,Station Not Open (T.O. Opened Station),os,,1,10,,,,291
+4-Jul-21,1703,Millbrae,C88,T.O. Procedure (Dispatch Schedule Timing Proc.),ot,9,,,,,,393
+4-Jul-21,2039,Berryessa,Richmond,Tower Procedure,oy,,1,7,,,,285
+5-Jul-21,654,Daly City,S. Hayward,Staffing Shortage,oz,7,,,,,,125
+5-Jul-21,1130,Dublin,Daly City,T.O. Procedure (Late Dispatch),ot,8,,,,,,509
+8-Jul-21,637,Millbrae,MacArthur,T.O. Procedure (Late Dispatch),ot,5,,,,,,407
+9-Jul-21,503,Berryessa,Richmond,T.O. Procedure,ot,7,1,7,,,,211
+10-Jul-21,1125,Berryessa,Richmond,"Tower Procedure  
+(T.O. Scheduling)",oy,10,,,,,,261
+14-Jul-21,1009,Richmond,San Bruno,Tower Procedure  (T.O. Scheduling),oy,8,,,,,,425
+15-Jul-21,2040,Millbrae,C88,T.O. Procedure (Late Dispatch),ot,8,,,,,,317
+15-Jul-21,2012,Millbrae,Daly City,T.O. Ill,oz,9,1,8,,,,411
+19-Jul-21,1713,Richmond,Millbrae,T.O. Procedure,ot,10,,,,,,423
+20-Jul-21,602,Berryessa,Richmond,T.O. Ill,oz,7,,,,,,201
+21-Jul-21,905,SF Airport,MacArthur,T.O. Ill,oz,5,,,,,,303
+26-Jul-21,528,Daly City,Milpitas,Platform Hold (No Station Agent/BPD Opened),oz,,1,11,,,,107
+26-Jul-21,1003,Berryessa,Richmond,T.O. Procedure (Late Boarding),ot,5,,,,,,203
+27-Jul-21,507,N-B/S-B,Balboa Park,Station Not Open (T.O. Opened Station),os,,1,16,,,,
+29-Jul-21,1416,Daly City,Berryessa,T.O. Procedure (Dispatch Time Proc.),ot,6,,,,,,113

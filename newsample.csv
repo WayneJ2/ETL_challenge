@@ -1,0 +1,9 @@
+Date,Time,DEST,LOCATION,CAUSE,COD,DEL,SEC,LR,HR,OFF,CNC,RUN
+2-Jul-21,542,Berryessa,Richmond,T.O. Procedure (Late Boarding),ot,8,,,,,,213
+4-Jul-21,722,Berryessa,Richmond,Station Not Open (T.O. Opened Station),os,,1,10,,,,291
+4-Jul-21,1703,Millbrae,C88,T.O. Procedure (Dispatch Schedule Timing Proc.),ot,9,,,,,,393
+4-Jul-21,2039,Berryessa,Richmond,Tower Procedure,oy,,1,7,,,,285
+5-Jul-21,654,Daly City,S. Hayward,Staffing Shortage,oz,7,,,,,,125
+5-Jul-21,1130,Dublin,Daly City,T.O. Procedure (Late Dispatch),ot,8,,,,,,509
+8-Jul-21,637,Millbrae,MacArthur,T.O. Procedure (Late Dispatch),ot,5,,,,,,407
+9-Jul-21,503,Berryessa,Richmond,T.O. Procedure,ot,7,1,7,,,,211

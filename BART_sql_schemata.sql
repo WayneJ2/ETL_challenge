@@ -1,0 +1,35 @@
+-- CREATE TABLE FOR BART STATIONS
+CREATE TABLE stations(
+    station_no int PRIMARY KEY NOT NULL,
+    name VARCHAR NOT NULL,
+    abbr VARCHAR NOT NULL,
+    lat NUMERIC NOT NULL,
+    long NUMERIC NOT NULL,
+    city VARCHAR NOT NULL,
+    county VARCHAR NOT NULL
+
+)
+
+
+-- CREATE TABLE FOR LOCAL OPS DELAY LOG
+CREATE TABLE opsdelays (
+    delay_no SERIAL PRIMARY KEY NOT NULL,
+    delay_date DATE NOT NULL,
+    delay_time TIME (0) NOT NULL,
+    destination VARCHAR NOT NULL,
+    location VARCHAR NOT NULL,
+    cause VARCHAR NOT NULL,
+    cod VARCHAR NOT NULL,
+    del NUMERIC NOT NULL,
+    sec NUMERIC NOT NULL,
+    lr NUMERIC NOT NULL,
+    HR NUMERIC NOT NULL,
+    OFF NUMERIC NOT NULL,
+    cnc NUMERIC NOT NULL,
+    RUN NUMERIC NOT NULL,
+    late_trains NUMERIC NOT NULL,
+    LTOC NUMERIC NOT NULL,
+    tenplus VARCHAR NOT NULL,
+    qualifying VARCHAR NOT NULL,
+    cod_defined VARCHAR NOT NULL,
+)
