@@ -1,21 +1,26 @@
-Date,Time,DEST,LOCATION,CAUSE,COD,DEL,SEC,LR,HR,OFF,CNC,RUN
-2-Jul-21,05:42,Berryessa,Richmond,T.O. Procedure (Late Boarding),ot,8,0,0,0,0,0,213
-4-Jul-21,07:22,Berryessa,Richmond,Station Not Open (T.O. Opened Station),os,0,1,10,0,0,0,291
+DATE,TIME,DEST,LOCATION,CAUSE,COD,DEL,SEC,LR,HR,OFF,CNC,RUN
+2-Jul-21,5:42,Berryessa,Richmond,T.O. Procedure (Late Boarding),ot,8,0,0,0,0,0,213
+4-Jul-21,7:22,Berryessa,Richmond,Station Not Open (T.O. Opened Station),os,0,1,10,0,0,0,291
 4-Jul-21,17:03,Millbrae,C88,T.O. Procedure (Dispatch Schedule Timing Proc.),ot,9,0,0,0,0,0,393
 4-Jul-21,20:39,Berryessa,Richmond,Tower Procedure,oy,0,1,7,0,0,0,285
-5-Jul-21,06:54,Daly City,S. Hayward,Staffing Shortage,oz,7,0,0,0,0,0,125
+5-Jul-21,6:54,Daly City,S. Hayward,Staffing Shortage,oz,7,0,0,0,0,0,125
 5-Jul-21,11:30,Dublin,Daly City,T.O. Procedure (Late Dispatch),ot,8,0,0,0,0,0,509
-8-Jul-21,06:37,Millbrae,MacArthur,T.O. Procedure (Late Dispatch),ot,5,0,0,0,0,0,407
-9-Jul-21,05:03,Berryessa,Richmond,T.O. Procedure,ot,7,1,7,0,0,0,211
+8-Jul-21,6:37,Millbrae,MacArthur,T.O. Procedure (Late Dispatch),ot,5,0,0,0,0,0,407
+9-Jul-21,5:03,Berryessa,Richmond,T.O. Procedure,ot,7,1,7,0,0,0,211
 10-Jul-21,11:25,Berryessa,Richmond,"Tower Procedure  
 (T.O. Scheduling)",oy,10,0,0,0,0,0,261
 14-Jul-21,10:09,Richmond,San Bruno,Tower Procedure  (T.O. Scheduling),oy,8,0,0,0,0,0,425
 15-Jul-21,20:40,Millbrae,C88,T.O. Procedure (Late Dispatch),ot,8,0,0,0,0,0,317
 15-Jul-21,20:12,Millbrae,Daly City,T.O. Ill,oz,9,1,8,0,0,0,411
 19-Jul-21,17:13,Richmond,Millbrae,T.O. Procedure,ot,10,0,0,0,0,0,423
-20-Jul-21,06:02,Berryessa,Richmond,T.O. Ill,oz,7,0,0,0,0,0,201
-21-Jul-21,09:05,SF Airport,MacArthur,T.O. Ill,oz,5,0,0,0,0,0,303
-26-Jul-21,05:28,Daly City,Milpitas,Platform Hold (No Station Agent/BPD Opened),oz,0,1,11,0,0,0,107
+20-Jul-21,6:02,Berryessa,Richmond,T.O. Ill,oz,7,0,0,0,0,0,201
+21-Jul-21,9:05,SF Airport,MacArthur,T.O. Ill,oz,5,0,0,0,0,0,303
+26-Jul-21,5:28,Daly City,Milpitas,Platform Hold (No Station Agent/BPD Opened),oz,0,1,11,0,0,0,107
 26-Jul-21,10:03,Berryessa,Richmond,T.O. Procedure (Late Boarding),ot,5,0,0,0,0,0,203
-27-Jul-21,05:07,N-B/S-B,Balboa Park,Station Not Open (T.O. Opened Station),os,0,1,16,0,0,0,0
+27-Jul-21,5:07,N-B/S-B,Balboa Park,Station Not Open (T.O. Opened Station),os,0,1,16,0,0,0,0
 29-Jul-21,14:16,Daly City,Berryessa,T.O. Procedure (Dispatch Time Proc.),ot,6,0,0,0,0,0,113
+20-Sep-21,03:30,N-B/S-B,Balboa Park,Platform Hold (No Station Agent/BPD Opened),oz,0.0,2.0,10.0,12.0,0.0,0.0,0.0
+20-Sep-21,13:46,Daly City,Berryessa,T.O. Procedure (Late Boarding),ot,5.0,0.0,0.0,0.0,0.0,0.0,103.0
+20-Sep-21,04:34,Daly City,Berryessa,Wayside Inspection,mz,0.0,1.0,5.0,0.0,0.0,0.0,105.0
+20-Sep-21,14:55,N-B/S-B,MacArthur,BPD Hold (Fight on Platform),mp,0.0,2.0,5.0,15.0,0.0,0.0,0.0
+20-Sep-21,22:15,Berryessa,Richmond,BPD Hold (Welfare Check),mp,18.0,0.0,0.0,0.0,0.0,0.0,207.0

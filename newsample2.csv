@@ -1,21 +1,6 @@
-Date,Time,DEST,LOCATION,CAUSE,COD,DEL,SEC,LR,HR,OFF,CNC,RUN
-2-Jul-21,542,Berryessa,Richmond,T.O. Procedure (Late Boarding),ot,8,,,,,,213
-4-Jul-21,722,Berryessa,Richmond,Station Not Open (T.O. Opened Station),os,,1,10,,,,291
-4-Jul-21,1703,Millbrae,C88,T.O. Procedure (Dispatch Schedule Timing Proc.),ot,9,,,,,,393
-4-Jul-21,2039,Berryessa,Richmond,Tower Procedure,oy,,1,7,,,,285
-5-Jul-21,654,Daly City,S. Hayward,Staffing Shortage,oz,7,,,,,,125
-5-Jul-21,1130,Dublin,Daly City,T.O. Procedure (Late Dispatch),ot,8,,,,,,509
-8-Jul-21,637,Millbrae,MacArthur,T.O. Procedure (Late Dispatch),ot,5,,,,,,407
-9-Jul-21,503,Berryessa,Richmond,T.O. Procedure,ot,7,1,7,,,,211
-10-Jul-21,1125,Berryessa,Richmond,"Tower Procedure  
-(T.O. Scheduling)",oy,10,,,,,,261
-14-Jul-21,1009,Richmond,San Bruno,Tower Procedure  (T.O. Scheduling),oy,8,,,,,,425
-15-Jul-21,2040,Millbrae,C88,T.O. Procedure (Late Dispatch),ot,8,,,,,,317
-15-Jul-21,2012,Millbrae,Daly City,T.O. Ill,oz,9,1,8,,,,411
-19-Jul-21,1713,Richmond,Millbrae,T.O. Procedure,ot,10,,,,,,423
-20-Jul-21,602,Berryessa,Richmond,T.O. Ill,oz,7,,,,,,201
-21-Jul-21,905,SF Airport,MacArthur,T.O. Ill,oz,5,,,,,,303
-26-Jul-21,528,Daly City,Milpitas,Platform Hold (No Station Agent/BPD Opened),oz,,1,11,,,,107
-26-Jul-21,1003,Berryessa,Richmond,T.O. Procedure (Late Boarding),ot,5,,,,,,203
-27-Jul-21,507,N-B/S-B,Balboa Park,Station Not Open (T.O. Opened Station),os,,1,16,,,,
-29-Jul-21,1416,Daly City,Berryessa,T.O. Procedure (Dispatch Time Proc.),ot,6,,,,,,113
+DATE,A,TIME,RUSH,B,DEST,LOCATION,CAUSE,COD,C,OFF,D,CNC,E,DEL,J,F,SEC,DEL2,CAR,YARD,H,INC,RUN,OFFCOM,CNCCOM,COMMENT,LR,HR,TOTAL MIN,PRIDASH,SECDASH,LDASH,HDASH,OFFDASH,CNCDASH,CARDASH,RUNDASH,PRIMOFFLD,UREM,CHANGED,TRAINNO,EQUIPLOC,PRIMCANC,EvntStrt,EvntEnd,LocCode,DateLastUpdate,SystemCode,System_Maximo,System_OrbiFlo,Subsystem,set_conditions,operator_help_text,PROBLEMCODE(TROULE_ID),EvntEnd1,Major,BPDEOLCount,SecondaryCode,DateLastUpdate1,SystemCode1
+20-Sep-21,,330,,,N-B/S-B,Balboa Park,Platform Hold (No Station Agent/BPD Opened),oz,,,,,,,,,2,,,,,cs,,,,,10,12,,-,2,10,12,-,-,OPS,,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,,0,,,
+20-Sep-21,,1346,,,Daly City,Berryessa,T.O. Procedure (Late Boarding),ot,,,,,,5,,,,,,,,cs,103,,,,,,,5,-,-,,-,-,OPS,,FALSE,FALSE,FALSE,103,,FALSE,,,,,,,,,,,,,,0,,,
+20-Sep-21,,434,,,Daly City,Berryessa,Wayside Inspection,mz,,,,,,,,,1,,,,,cs,105,,,,5,,,-,1,5,,-,-,,,FALSE,FALSE,FALSE,105,,FALSE,,,,,,,,,,,,,,0,,,
+20-Sep-21,,1455,,,N-B/S-B,MacArthur,BPD Hold (Fight on Platform),mp,,,,,,,,,2,,,,,edm,,,,1 train RT,5,15,,-,2,5,15,-,-,BPD,,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,,0,,,
+20-Sep-21,,2215,,,Berryessa,Richmond,BPD Hold (Welfare Check),mp,,,,,,18,,,,,,,,edm,207,,,-3 eol maintenance and 2 gm,,,,18,-,-,,-,-,BPD,,FALSE,FALSE,FALSE,207,,FALSE,,,,,,,,,,,,,,0,,,

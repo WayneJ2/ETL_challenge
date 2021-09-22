@@ -31,5 +31,5 @@ CREATE TABLE opsdelays (
     LTOC NUMERIC NOT NULL,
     tenplus VARCHAR NOT NULL,
     qualifying VARCHAR NOT NULL,
-    cod_defined VARCHAR NOT NULL,
+    cod_defined VARCHAR NOT NULL
 )
