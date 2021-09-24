@@ -14,9 +14,9 @@ CREATE TABLE stations(
 -- CREATE TABLE FOR LOCAL OPS DELAY LOG
 CREATE TABLE opsdelays (
     delay_no SERIAL PRIMARY KEY NOT NULL,
-    delay_date DATE NOT NULL,
-    delay_time TIME (0) NOT NULL,
-    destination VARCHAR NOT NULL,
+    date DATE NOT NULL,
+    time TIME (0) NOT NULL,
+    dest VARCHAR NOT NULL,
     location VARCHAR NOT NULL,
     cause VARCHAR NOT NULL,
     cod VARCHAR NOT NULL,
@@ -27,9 +27,9 @@ CREATE TABLE opsdelays (
     OFF NUMERIC NOT NULL,
     cnc NUMERIC NOT NULL,
     RUN NUMERIC NOT NULL,
-    late_trains NUMERIC NOT NULL,
-    LTOC NUMERIC NOT NULL,
-    tenplus VARCHAR NOT NULL,
-    qualifying VARCHAR NOT NULL,
+    latetrains NUMERIC NOT NULL,
+    latetrains_off_cnc NUMERIC NOT NULL,
+    ten_min_delay VARCHAR NOT NULL,
+    qualifying_delay VARCHAR NOT NULL,
     cod_defined VARCHAR NOT NULL
 )
